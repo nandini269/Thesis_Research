@@ -1,0 +1,2 @@
+,"{'algorithm': 'ExtraTrees', 'hyperparameters': {'min_samples_split': 0.1, 'criterion': 'gini'}}",elapsed_time
+3,0.049511825732152695,0.11201739311218262
